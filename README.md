@@ -46,7 +46,8 @@
 
 ## Skills & Technologies
 
-java,js,c,cpp,androidstudio,nodejs,express,react,sqlite,html,css,git,docker,mongodb,flutter
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,androidstudio,blender,nodejs,express,react,html,css,git,mongodb)](https://skillicons.dev)
+
 
 ## Top Projects
 
