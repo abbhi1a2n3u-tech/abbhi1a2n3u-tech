@@ -1,5 +1,11 @@
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=abbhi1a2n3u-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+![Shivam Yadav GitHub Banner](https://images.ctfassets.net/wn7ipiv9ue5v/3TEH1C33qctDSC4gbIwvc5/79e8e29581e589faccee60a27cab8214/02_Faster_Loading__1_.jpg)
+
 <h1 align="center">
-  <font color="blue"><b>Hi, I'm Shivam Yadav</b></font>
+  <font color="blue"><b> Hi there, I'm Shivam Yadav</b> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></font>
 </h1>
 
 <p align="center">
