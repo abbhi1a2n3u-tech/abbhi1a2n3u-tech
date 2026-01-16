@@ -18,3 +18,11 @@
 - 💎 Value **integrity, collaboration, and innovation** <br>
 - 📈 Skills: **Java, C#, C++, JavaScript, NodeJS, MongoDB, OOP, Git & GitHub**
 - 📫 Reach Me At: [shivamyadav142311@gmail.com](mailto:shivamyadav142311@gmail.com) <br>
+- 📍 **Location:** India <br>
+
+<br>
+<br>
+<br>
+<br>
+
+<!-- ## Hacktoberfest Badges 🪶 -->
