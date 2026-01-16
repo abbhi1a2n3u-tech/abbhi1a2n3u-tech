@@ -43,6 +43,37 @@
 <a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abbhi1a2n3u-tech/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
 <br>
+
+## Skills & Technologies
+
+java,js,c,cpp,androidstudio,nodejs,express,react,sqlite,html,css,git,docker,mongodb,flutter
+
+## Top Projects
+
+- [abbhi1a2n3u-tech](https://github.com/abbhi1a2n3u-tech/abbhi1a2n3u-tech) - A personal project showcasing various programming concepts. ⭐️ 0 stars
+- [awesome-github-profile-readme](https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme) - A curated list of awesome GitHub profiles. ⭐️ 0 stars
+- [androidApp](https://github.com/abbhi1a2n3u-tech/androidApp) - An Android application project. ⭐️ 0 stars
+- [androidBK](https://github.com/abbhi1a2n3u-tech/androidBK) - A backup Android application. ⭐️ 0 stars
+
+## GitHub Stats
+
+🔭 Public Repositories: 4
+👥 Followers: 0
+👤 Following: 0
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbhi1a2n3u-tech&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [abbhi1a2n3u-tech](https://github.com/abbhi1a2n3u-tech/abbhi1a2n3u-tech) on 16th Jan 2026
+- Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) on 16th Jan 2026
+- Updated [androidApp](https://github.com/abbhi1a2n3u-tech/androidApp) on 24th Oct 2025
+- Created [androidBK](https://github.com/abbhi1a2n3u-tech/androidBK) on 23rd Oct 2025
+
+## Certifications
+
+- [FULL STACK WEB DEVELOPMENT ( MERN )](link-to-certificate) - Issuing organization, 2025
+
 <br>
 
 ## 🚀 My Projects
