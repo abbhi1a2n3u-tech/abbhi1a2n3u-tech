@@ -2,7 +2,13 @@
     <img src="https://komarev.com/ghpvc/?username=abbhi1a2n3u-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-![Shivam Yadav GitHub Banner](https://images.ctfassets.net/wn7ipiv9ue5v/3TEH1C33qctDSC4gbIwvc5/79e8e29581e589faccee60a27cab8214/02_Faster_Loading__1_.jpg)
+<img height=200 width=100% src="https://images.ctfassets.net/wn7ipiv9ue5v/3TEH1C33qctDSC4gbIwvc5/79e8e29581e589faccee60a27cab8214/02_Faster_Loading__1_.jpg">
+
+<p>
+    <a href="https://twitter.com/abbhi1a2n3u_tech"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abbhi1a2n3u_tech?style=social" /></a>
+    <a href="https://www.linkedin.com/in/abbhi1a2n3u-tech/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
+    <a href="https://instagram.com/abbhi1a2n3u_tech"><img alt="Instagram Follow" src="https://img.shields.io/badge/-Instagram-purple?style=social&logo=instagram" /></a>
+</p>
 
 <h1 align="center">
   <font color="blue"><b> Hi there, I'm Shivam Yadav</b> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></font>
