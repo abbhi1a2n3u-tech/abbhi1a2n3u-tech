@@ -6,8 +6,8 @@
 
 <p>
     <a href="https://twitter.com/abbhi1a2n3u_tech"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abbhi1a2n3u_tech?style=social" /></a>
-    <a href="https://www.linkedin.com/in/abbhi1a2n3u-tech/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
-    <a href="https://instagram.com/abbhi1a2n3u_tech"><img alt="Instagram Follow" src="https://img.shields.io/badge/-Instagram-purple?style=social&logo=instagram" /></a>
+    <a href="https://www.linkedin.com/in/shivam-yadav-2626aa338/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/_a.a.abhi/"><img alt="Instagram Follow" src="https://img.shields.io/badge/-Instagram-purple?style=social&logo=instagram" /></a>
 </p>
 
 <h1 align="center">
