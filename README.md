@@ -1,2 +1,3 @@
-
-<h1 align="center" style="color: blue; font-weight: bold;">Hi, I'm Shivam Yadav</h1>
+<h1 align="center">
+  <font color="blue"><b>Hi, I'm Shivam Yadav</b></font>
+</h1>
