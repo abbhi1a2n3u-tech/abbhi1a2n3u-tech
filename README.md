@@ -46,7 +46,7 @@
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,androidstudio,blender,nodejs,express,react,html,css,git,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,androidstudio,blender,nodejs,express,react,html,css,git,mongodb,unity)](https://skillicons.dev)
 
 
 ## Top Projects
