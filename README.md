@@ -1,46 +1,82 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbhi1a2n3u-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abbhi1a2n3u-tech" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=abbhi1a2n3u-tech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<img height=200 width=100% src="https://images.ctfassets.net/wn7ipiv9ue5v/3TEH1C33qctDSC4gbIwvc5/79e8e29581e589faccee60a27cab8214/02_Faster_Loading__1_.jpg">
+
+<p>
+    <a href="https://twitter.com/abbhi1a2n3u_tech"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abbhi1a2n3u_tech?style=social" /></a>
+    <a href="https://www.linkedin.com/in/shivam-yadav-2626aa338/"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/_a.a.abhi/"><img alt="Instagram Follow" src="https://img.shields.io/badge/-Instagram-purple?style=social&logo=instagram" /></a>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Shivam+Yadav+💻;Full+Stack+Developer+🚀;Android+Modder+📱;Tech+Enthusiast+⚡" alt="Typing SVG" />
+  <font color="blue"><b> Hi there, I'm Shivam Yadav</b> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></font>
 </h1>
 
-<p align="center">
-  <a href="https://twitter.com/abbhi1a2n3u_tech">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/shivam-yadav-2626aa338/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_a.a.abhi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:shivamyadav142311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/abbhi1a2n3u-tech">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</div>
+- 🌱 **Currently learning and exploring new technologies** <br>
+- ⚡ About Me: **Passionate Coder | Tech Enthusiast | Lifelong Learner** <br>
+- 💎 Value **integrity, collaboration, and innovation** <br>
+- 📈 Skills: **Java, C#, C++, JavaScript, NodeJS, MongoDB, OOP, Git & GitHub**
+- 📫 Reach Me At: [shivamyadav142311@gmail.com](mailto:shivamyadav142311@gmail.com) <br>
+- 📍 **Location:** India <br>
 
-## 👨‍💻 About Me
+<br>
+<br>
+<br>
+<br>
 
-```javascript
-const shivam = {
-  pronouns: "he" | "him",
-  code: ["Java", "JavaScript", "C++", "C#", "Python"],
-  technologies: {
-    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    mobile: ["Android Studio", "React Native"],
-    tools: ["Git", "Docker", "VS Code", "Blender", "Unity"],
-    gameDev: ["Android Modding", "Reverse Engineering", "Game Hacking"]
-  },
-  currentFocus: "Building innovative Android solutions & Full Stack Applications",
-  funFact: "I can turn coffee ☕ into code 💻"
-};
+<!-- ## Hacktoberfest Badges 🪶 -->
+
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abbhi1a2n3u-tech/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abbhi1a2n3u-tech/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abbhi1a2n3u-tech/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abbhi1a2n3u-tech/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abbhi1a2n3u-tech/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abbhi1a2n3u-tech/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
+<br>
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,androidstudio,blender,nodejs,express,react,html,css,git,mongodb,unity)](https://skillicons.dev)
+
+
+## Top Projects
+
+- [abbhi1a2n3u-tech](https://github.com/abbhi1a2n3u-tech/abbhi1a2n3u-tech) - A personal project showcasing various programming concepts. ⭐️ 0 stars
+- [awesome-github-profile-readme](https://github.com/abbhi1a2n3u-tech/awesome-github-profile-readme) - A curated list of awesome GitHub profiles. ⭐️ 0 stars
+- [androidApp](https://github.com/abbhi1a2n3u-tech/androidApp) - An Android application project. ⭐️ 0 stars
+- [androidBK](https://github.com/abbhi1a2n3u-tech/androidBK) - A backup Android application. ⭐️ 0 stars
+
+## GitHub Stats
+
+🔭 Public Repositories: 4
+👥 Followers: 0
+👤 Following: 0
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbhi1a2n3u-tech&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [abbhi1a2n3u-tech](https://github.com/abbhi1a2n3u-tech/abbhi1a2n3u-tech) on 16th Jan 2026
+- Forked [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) on 16th Jan 2026
+- Updated [androidApp](https://github.com/abbhi1a2n3u-tech/androidApp) on 24th Oct 2025
+- Created [androidBK](https://github.com/abbhi1a2n3u-tech/androidBK) on 23rd Oct 2025
+
+## Certifications
+
+- [FULL STACK WEB DEVELOPMENT ( MERN )](link-to-certificate) - Issuing organization, 2025
+
+<br>
+
+## 🚀 My Projects
+Here are some of my projects:
+- [Android Mode Menu](https://github.com/abbhi1a2n3u-tech/ABHIXCHEATS)
