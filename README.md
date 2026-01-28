@@ -74,7 +74,7 @@
 ## Certifications
 
 - [FULL STACK WEB DEVELOPMENT ( MERN )](link-to-certificate) - Issuing organization, 2025
-- [Full C# fundamentail ](https://www.freecodecamp.org/certification/fcc2e511096-caab-43f8-a574-37deae96b372/foundational-c-sharp-with-microsoft) - C# 
+- [foundational C# with microsoft](https://www.freecodecamp.org/certification/fcc2e511096-caab-43f8-a574-37deae96b372/foundational-c-sharp-with-microsoft) -foundational C# with microsoft
 
 <br>
 
